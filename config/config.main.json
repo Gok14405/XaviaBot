@@ -15,15 +15,11 @@
     },
     "LANGUAGE": "en_US",
     "LOG_LEVEL": 1,
-    "MODERATORS": [
-        "100008907121641"
-    ],
-    "ABSOLUTES": [
-        "100008907121641"
-    ],
-    "NAME": "Xavia",
-    "PREFIX": "x",
-    "timezone": "Asia/Ho_Chi_Minh",
-    "REFRESH": "43200000",
+    "MODERATORS": ["61564908368733"],
+    "ABSOLUTES": ["61564908368733"],
+    "NAME": "phinax",
+    "PREFIX": "+",
+    "timezone": "kenya/kisumu",
+    "REFRESH": "3200000",
     "MAX_BALANCE_LIMIT": "-1"
 }
