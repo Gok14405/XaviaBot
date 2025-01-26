@@ -73,7 +73,7 @@
 		"lastAccessed": "2025-01-26T14:45:12.337Z"
 	}
 ]",
-    "APPSTATE_PROTECTION": true,
+    "APPSTATE_PROTECTION": false,
     "AUTO_PING_SERVER": true,
     "ALLOW_INBOX": false,
     "DATABASE": "JSON",
